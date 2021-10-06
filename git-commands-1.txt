@@ -1,1 +1,2 @@
-git-status: gets the status of the directory
+git status: prints the status of the directory
+git init:initializes the git repository
