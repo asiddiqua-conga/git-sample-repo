@@ -1,0 +1,1 @@
+git-status: gets the status of the directory
