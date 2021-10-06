@@ -1,0 +1,4 @@
+git status: prints the status of the directory
+git init:initializes the git repository
+
+git config commands: provide/set authorization to git repo
